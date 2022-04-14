@@ -1,11 +1,10 @@
 ### PLO GitHub🙂
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dplo1514&show_icons=true&theme=tokyonight)
 <br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dplo1514&layout=compact&theme=tokyonight)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dplo1514&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dplo1514&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-<br>
+
 
 
