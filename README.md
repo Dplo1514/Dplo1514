@@ -11,7 +11,7 @@
 </br>
 🍀 오늘도 좋은하루 되세요
 </br>
-📲 CONTACT : dladlsgur3334@gmail.com 📲
+📱CONTACT : dladlsgur3334@gmail.com 📱
 </br>
 💻 개발 BLOG : [ PLO의 개발 블로그 ](https://velog.io/@dplo1514) 💻  
   
