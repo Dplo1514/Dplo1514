@@ -46,8 +46,8 @@
 
 
 ## 🧱 Stacks 🧱
-  
-  
+</br>
+
 |Part🗂|Studying✍️|
 |:---:|:---:|
 |📚Code|<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/><img src="https://img.shields.io/badge/Java-E34F26?style=for-the-badge&logo=java&logoColor=white"/>|
@@ -66,13 +66,15 @@
 
 <a>
   
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dplo1514&show_icons=true&theme=tokyonight) 
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dplo1514&layout=compact&theme=tokyonight)
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=plo1514&show_icons=true&theme=tokyonight) 
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plo1514&layout=compact&theme=tokyonight)
   
 </a>
 
 </div>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dplo1514&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dplo1514&langs_count=10&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
